@@ -1,0 +1,2 @@
+{"name":"Boussole Finance","short_name":"Boussole","description":"Apprends la finance perso : budget, épargne, impôts, bourse, PEA, immobilier, crypto.","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#07080B","theme_color":"#07080B","lang":"fr",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
